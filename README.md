@@ -8,6 +8,8 @@
 <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/Rust-%23f45301?style=flat"/></a>
 
 
+
+[![wakatime](https://wakatime.com/badge/user/d10b17b7-69e1-42a1-a6bc-c0f0a78f8564.svg)](https://wakatime.com/@d10b17b7-69e1-42a1-a6bc-c0f0a78f8564)
 ## 📈 my github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HigginesLee&locale=en&line_height=33&show_icons=true&hide=contribs,issues,prs&theme=dracula&rank_icon=default"/>
 
